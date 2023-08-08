@@ -12,4 +12,4 @@ There's just one `.kt` file with a few codes. So, just download and use it.
 
 ## License
 
-You can do anythine you want.
+You can do anything you want.
