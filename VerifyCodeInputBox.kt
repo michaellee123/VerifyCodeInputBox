@@ -1,4 +1,4 @@
-package com.cesiumai.rv2.compose.widgets
+package dog.abcd.compose.widgets
 
 import androidx.compose.foundation.background
 import androidx.compose.foundation.border
